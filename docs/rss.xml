@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>gjyyds1的个人博客</title><link>https://gjyyds1.github.io</link><description>欢迎来到我的个人博客！</description><copyright>gjyyds1的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://gjyyds1.github.io</link></image><lastBuildDate>Fri, 12 Jul 2024 09:51:09 +0000</lastBuildDate><managingEditor>gjyyds1的个人博客</managingEditor><ttl>60</ttl><webMaster>gjyyds1的个人博客</webMaster><item><title>VPS价格表</title><link>https://gjyyds1.github.io/post/VPS-jia-ge-biao.html</link><description>### VPS最新价格表&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>gjyyds1的个人博客</title><link>https://gjyyds1.github.io</link><description>欢迎来到我的个人博客！</description><copyright>gjyyds1的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://gjyyds1.github.io</link></image><lastBuildDate>Fri, 12 Jul 2024 21:24:21 +0000</lastBuildDate><managingEditor>gjyyds1的个人博客</managingEditor><ttl>60</ttl><webMaster>gjyyds1的个人博客</webMaster><item><title>VPS价格表</title><link>https://gjyyds1.github.io/post/VPS-jia-ge-biao.html</link><description>### VPS最新价格表&#13;
 _更新于2024.07.12 16:58_&#13;
 &#13;
 **所有VPS初始流量为100GB/月**&#13;
@@ -30,9 +30,9 @@ _后面同理_&#13;
 16c32g 40G SSD 50M 409.9 4099.9&#13;
 &#13;
 **单独增加配置价格**&#13;
-E5 1元/核 2元/G内存 10元/G储存 4元/5Mbps&#13;
-G6 4元/核 4元/G内存 20元/G储存 4元/5Mbps&#13;
-I9 10元/核 10元/G内存 20元/G储存4元/5Mbps&#13;
+E5 1元/核 2元/G内存 10元/G储存 8元/5Mbps&#13;
+G6 4元/核 4元/G内存 20元/G储存 8元/5Mbps&#13;
+I9 10元/核 10元/G内存 20元/G储存 8元/5Mbps&#13;
 &#13;
 **可选系统**&#13;
 E5：Windows Server 2012 R2/2019/2022  Windows 10&#13;
