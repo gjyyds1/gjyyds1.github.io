@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>gjyyds1的个人博客</title><link>https://gjyyds1.github.io</link><description>欢迎来到我的个人博客！</description><copyright>gjyyds1的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://gjyyds1.github.io</link></image><lastBuildDate>Fri, 12 Jul 2024 09:39:21 +0000</lastBuildDate><managingEditor>gjyyds1的个人博客</managingEditor><ttl>60</ttl><webMaster>gjyyds1的个人博客</webMaster><item><title>VPS价格表</title><link>https://gjyyds1.github.io/post/VPS-jia-ge-biao.html</link><description>### VPS最新价格表&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>gjyyds1的个人博客</title><link>https://gjyyds1.github.io</link><description>欢迎来到我的个人博客！</description><copyright>gjyyds1的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://gjyyds1.github.io</link></image><lastBuildDate>Fri, 12 Jul 2024 09:51:09 +0000</lastBuildDate><managingEditor>gjyyds1的个人博客</managingEditor><ttl>60</ttl><webMaster>gjyyds1的个人博客</webMaster><item><title>VPS价格表</title><link>https://gjyyds1.github.io/post/VPS-jia-ge-biao.html</link><description>### VPS最新价格表&#13;
 _更新于2024.07.12 16:58_&#13;
 &#13;
 **所有VPS初始流量为100GB/月**&#13;
@@ -69,11 +69,11 @@ _注：服务器整合包仅需进行配置，所以价格低，客户端整合�
 &#13;
 **额外技术支持**&#13;
 **帮助解决各种问题**&#13;
-价格计算公式：次数*时间（月）&#13;
-_例：每月30次：30次*1月=30元/月_&#13;
-无限次计算公式：3*时间（天）&#13;
+价格计算公式：次数×时间（月）&#13;
+_例：每月30次：30次×1月=30元/月_&#13;
+无限次计算公式：3×时间（天）&#13;
 _一月按30天算，一年按365天算_&#13;
-_例：每月无限次：3*30天＝90元/月_&#13;
+_例：每月无限次：3×30天＝90元/月_&#13;
 &#13;
 **JE自制插件提供**&#13;
 写新的：0.1元/1行&#13;
