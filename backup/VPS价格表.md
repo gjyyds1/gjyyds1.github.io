@@ -98,3 +98,6 @@ _tips：插件在通常情况下并不会免费而且闭源_
 
 **其他**
 1.5元/次
+
+### 付款方式
+![efeb6787b2e34ad52e35c5a64242233b](https://github.com/user-attachments/assets/f455a30b-293d-4173-93b2-8e07c1071c3c)
